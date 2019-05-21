@@ -1,4 +1,4 @@
-# dev-relish
+# dev-relish-yeesh
 
 > An async standup tool
 
